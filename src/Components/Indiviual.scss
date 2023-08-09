@@ -1,0 +1,21 @@
+.todo{
+    height: 40px;
+    display: flex;
+    align-items: center ;
+    
+}
+input{
+    flex: 1;
+    height: 60%;
+}
+p{
+    flex: 12;
+    margin: 0px;
+    margin-left: 10px;
+    font-family: 'Lumanosimo';
+    font-weight: bold;
+}
+img{
+    flex: 1;
+    height: 60%;
+}
