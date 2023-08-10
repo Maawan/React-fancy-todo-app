@@ -14,6 +14,9 @@ p{
     margin-left: 10px;
     font-family: 'Lumanosimo';
     font-weight: bold;
+    max-lines: 1;
+    overflow: hidden;
+    margin-right: 20px;
 }
 img{
     flex: 1;
